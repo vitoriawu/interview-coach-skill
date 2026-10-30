@@ -1,0 +1,21 @@
+# Private user material
+private/
+local-data/
+resumes/
+transcripts/
+recordings/
+references/profile.md
+references/experience-bank.md
+references/interview-history.md
+.env
+.env.*
+*.pem
+*.key
+*.zip
+*.pdf
+*.docx
+*.mp3
+*.m4a
+*.wav
+.DS_Store
+__pycache__/
